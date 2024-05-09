@@ -4,7 +4,7 @@
 
 ☁️ **Support Analyst - Cloud** na [Tigabytes](https://www.tigabytes.com/br/) e Tecnologo em Telecomunicações.
 
-🏭 **Atuação Profissinal**
+🏭 **Atuação Profissional**
 - Suporte, criação e gerenciamento de ambientes Cloud Compute
 - Analise e adequação nas boas práticas de segurança da nuvem
 
